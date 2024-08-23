@@ -9,7 +9,7 @@
 Português:
 
 👋 Olá, eu sou @cristinoricardo
-👀 Estou interessado em desenvolvimento de software back-end e tecnologia em geral.
+👀 Estou evoluindo em desenvolvimento de software back-end e tecnologia em geral.
 🌱 Atualmente, estou aprendendo sobre inteligência artificial e machine learning.
 💞️ Estou procurando colaborar em projetos de código aberto e desafios de programação.
 📫 Você pode me encontrar no LinkedIn https://www.linkedin.com/in/ricardocristino/
