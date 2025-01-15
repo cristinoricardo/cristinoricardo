@@ -16,7 +16,7 @@ Português:
 💞️ Estou procurando colaborar em projetos de código aberto e desafios de programação.  
 📫 Você pode me encontrar no LinkedIn https://www.linkedin.com/in/ricardocristino/  
 😄 Pronomes: ele/dele  
-⚡ Curiosidade: Sou formado em Bacharel em Ciências Econômicas pela Universidade Federal do Amazonas.  
+⚡ Curiosidade: Sou Bacharel em Ciências Econômicas pela Universidade Federal do Amazonas.  
 
 
 
